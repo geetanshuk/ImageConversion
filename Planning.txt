@@ -1,0 +1,23 @@
+Core features:
+    User Input- prompt the user to upload an image of a person, etc.
+    3D models- use ai algorithms for this
+    let the user export the finished product in different formats
+    Include model manipulation
+
+Ideas for models (need more research for this):
+    Pix2Vox: Converts 2D images to voxel-based 3D models.
+    DIB-R: Creates detailed 3D meshes from 2D images.
+    Monodepth: For depth estimation (you can create 3D models by predicting depth from single images).
+    NeRF: For photorealistic 3D model generation from multiple images.
+    MVSNet: For multi-view stereo (requires multiple images of an object).
+    Using pretrained models
+
+Collect and prepare data
+
+Train model
+
+Make UI for app
+
+Testing and optimizations
+
+
